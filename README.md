@@ -20,6 +20,7 @@
     <br />
     Node.js, HTML, C#, C++, DiscordJS, Python
     <br />
+    <br />
     Currently learning;
     <br />
     Vlang, Next.js
