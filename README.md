@@ -30,6 +30,10 @@
     <a href="mailto:peithocontact@gmail.com">Mail</a>
     ·
     <a href="https://discord.bio/p/peitho">Discord</a>
+    <br />
+    <br />
+    <br />
+<img src="https://github-readme-stats.vercel.app/api?username=Julie420&amp;show_icons=true&amp;theme=radical">
   </p>
 </p>
 
