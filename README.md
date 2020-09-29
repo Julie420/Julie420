@@ -7,9 +7,21 @@
 <p align="center">
 
   <p align="center">
-    epic nodejs dev
+    yeah so i have braindamage basically
     <br />
-    i love you vek
+    I still consider myself smart😎😎😎
+    <br />
+    17 Years old
+    <br />
+    And here's the boring shit you dont want to hear:
+    <br />
+    I've had experience with;
+    <br />
+    Node.js, HTML, C#, C++, DiscordJS, Python
+    <br />
+    Currently learning;
+    <br />
+    Vlang, Next.js
     <br />
     <br />
     <a href="https://julie420.github.io">Website</a>
