@@ -1,16 +1,42 @@
-### Hi there 👋
+<p align="center">  
+  <img src="https://www.gommehd.net/forum/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FiOF5Ud4.gif&hash=0c1d1f377a773c0fb1ed74fe446c8ad3" alt="fax" width="1000" height="1">
+</p>
 
-<!--
-**Julie420/Julie420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">[𝗿𝗲𝗮𝗱𝗺𝗲]</h1>
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    epic nodejs dev
+    <br />
+    i love you vek
+    <br />
+    <br />
+    <a href="https://julie420.github.io">Website</a>
+    ·
+    <a href="mailto:peithocontact@gmail.com">Mail</a>
+    ·
+    <a href="https://www.steamcommunity.com/id/tayhayvip">bobs</a>
+    ·
+    <a href="https://discord.bio/p/tay">discord</a>
+  </p>
+</p>
+
+<p align="center">  
+  <a href="https://steamcommunity.com/id/ayuo">
+    <img src="https://cdn.discordapp.com/attachments/740669580112035945/750039981611024404/fax.png" alt="fax" width="276" height="70">
+  </a>
+  <br />
+  <br />
+    <img src="https://cdn.discordapp.com/attachments/720825376946782321/758776239980019722/unknown.png" alt="fax" width="256" height="77">
+
+</p>
+
+```csharp
+[DllImport("user32.dll")]
+static extern bool BlockInput(bool fBlockIt);
+BlockInput(true);
+```
+<p align="center">  
+  <img src="https://www.gommehd.net/forum/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FiOF5Ud4.gif&hash=0c1d1f377a773c0fb1ed74fe446c8ad3" alt="fax" width="1000" height="1">
+</p>
