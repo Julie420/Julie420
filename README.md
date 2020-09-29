@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://doggo.ninja/UKzGrD.gif" alt="fax" width="1000" height="1">
+  <img src="https://doggo.ninja/UKzGrD.gif">
 </p>
 
 <h1 align="center">[𝗿𝗲𝗮𝗱𝗺𝗲.𝗺𝗱]</h1>
