@@ -15,6 +15,7 @@
     <br />
     And here's the boring shit you dont want to hear:
     <br />
+    <br />
     I've had experience with;
     <br />
     Node.js, HTML, C#, C++, DiscordJS, Python
