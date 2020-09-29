@@ -16,9 +16,7 @@
     ·
     <a href="mailto:peithocontact@gmail.com">Mail</a>
     ·
-    <a href="https://www.steamcommunity.com/id/tayhayvip">bobs</a>
-    ·
-    <a href="https://discord.bio/p/tay">discord</a>
+    <a href="https://discord.bio/p/peitho">discord</a>
   </p>
 </p>
 
