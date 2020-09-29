@@ -16,7 +16,7 @@
     ·
     <a href="mailto:peithocontact@gmail.com">Mail</a>
     ·
-    <a href="https://discord.bio/p/peitho">discord</a>
+    <a href="https://discord.bio/p/peitho">Discord</a>
   </p>
 </p>
 
