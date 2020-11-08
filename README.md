@@ -20,7 +20,7 @@
     <br />
     I've had experience with;
     <br />
-    Node.js, HTML, C#, C++, DiscordJS, Python
+    Node.js, HTML, C#, C++, DiscordJS, Python, some Rust
     <br />
     <br />
     Currently learning;
