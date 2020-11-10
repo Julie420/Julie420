@@ -20,12 +20,8 @@
     <br />
     I've had experience with;
     <br />
-    Node.js, JS, HTML, C#, C++, DiscordJS, Python, some Rust
+    Node.js, JS, HTML, C#, C++, DiscordJS, Python, Rust, Vlang, Next.js
     <br />
-    <br />
-    Currently learning;
-    <br />
-    Vlang, Next.js
     <br />
     <br />
     <a href="https://julie420.github.io">Website</a>
