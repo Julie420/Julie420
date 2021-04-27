@@ -20,7 +20,7 @@
     <br />
     I've had experience with;
     <br />
-    Node.js, JS, HTML, C#, (barely) C++, DiscordJS, Python, Rust, (barely) Vlang
+    Node.js, JS, HTML, C#, C++ (barely), DiscordJS, Python, Rust, Vlang (barely)
     <br />
     <br />
     <br />
