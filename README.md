@@ -20,7 +20,7 @@
     <br />
     I've had experience with;
     <br />
-    Node.js, JS, HTML, C#, C++ (barely), DiscordJS, Python, Rust, Vlang (barely)
+    Node.js, JS, HTML, C#, C++ (barely), DiscordJS, Python, Rust, Vlang (barely), mongoDB (so hot
     <br />
     <br />
     <br />
