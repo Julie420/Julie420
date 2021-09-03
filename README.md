@@ -10,5 +10,5 @@ Here's some of the languages i use most
 - C#
 - Rust
 
-### If you want to contact me my discord tag is [curly#4235](https://discord.com/users/634774973201907714)
+### If you want to contact me my discord tag is [satan#0005](https://discord.com/users/634774973201907714)
 ![](https://komarev.com/ghpvc/?username=julie420&color=ff69b4)
