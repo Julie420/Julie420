@@ -1,8 +1,5 @@
 ### Hey👋
 
-People know me as curly➰ \
-I'm really bad at coding, but i try my best.
-
 Here's some of the languages i use most
 - C++
 - Python
