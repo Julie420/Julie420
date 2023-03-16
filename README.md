@@ -4,11 +4,10 @@ People know me as curly➰ \
 I'm really bad at coding, but i try my best.
 
 Here's some of the languages i use most
-- JavaScript
-- Python
 - C++
+- Python
 - C#
-- Rust
+- JavaScript
 
-### If you want to contact me my discord tag is [curly#0417](https://discord.com/users/634774973201907714)
+### If you want to contact me my discord tag is [zippo#2741](https://discord.com/users/394972765314088972)
 ![](https://komarev.com/ghpvc/?username=julie420&color=ff69b4)
